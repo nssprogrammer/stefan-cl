@@ -181,8 +181,8 @@ extension velocities on a grid; smoothed normal estimation).
 
 ```bibtex
 @article{stefancl2026,
-  title  = {Stefan-CL: Continual Learning as a Moving-Boundary Problem},
-  author = {(author list withheld for review)},
+  title  = {Continual Learning as a Multiphase Moving-Boundary Problem},
+  author = {(Snigdha Chandan Khilar)},
   year   = {2026},
   note   = {Level-set formulation with latent heat as a stability--plasticity dial}
 }

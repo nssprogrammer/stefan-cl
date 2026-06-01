@@ -1,4 +1,4 @@
-# Stefan-CL: Continual Learning as a Moving-Boundary Problem
+# Continual Learning as a Multiphase Moving-Boundary Problem
 
 A level-set formulation of continual learning in which the **stability–plasticity
 dilemma** is recast as a classical **Stefan (melting/solidification) problem**, with the
